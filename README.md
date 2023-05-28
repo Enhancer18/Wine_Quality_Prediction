@@ -89,6 +89,6 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Contact
 
-For any questions or inquiries, please contact [m.arpanreddy18@gmail.com].
+For any questions or inquiries, please contact [m.arpanareddy18@gmail.com].
 
 ---
