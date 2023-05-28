@@ -54,17 +54,7 @@ pip install numpy pandas matplotlib scikit-learn
 Output variable (based on sensory data): quality (score between 0 and 10)
 
 ## Coefficient Values
-                      Coeffecient
-fixed acidity            0.017737
-volatile acidity        -0.992560
-citric acid             -0.139629
-chlorides               -1.590943
-free sulfur dioxide      0.005597
-total sulfur dioxide    -0.003520
-density                  0.768590
-pH                      -0.437414
-sulphates                0.812888
-alcohol                  0.301484
+![alt text](https://user-images.githubusercontent.com/19779081/53143050-5d7b5b80-35bc-11e9-846b-fd0ee3e09565.PNG)
 
 ## Regression Evaluation Metrics
 
